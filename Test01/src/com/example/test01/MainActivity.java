@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
 import android.os.AsyncTask;
 import android.renderscript.Element;
 
-
+//kyrie wrote: oh no
 //public static final String URL = "http://download.finance.yahoo.com/d/quotes.csv?s=INFY.BO,RELIANCE.NS,TCS.BO&f=sl1d1t1c1ohgv&e=.csv' and columns='symbol,price,date,time,change,col1,high,low,col2";
 //"http://10.0.2.2:8080/HttpGetServlet/HelloWorldServlet";
 
